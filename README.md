@@ -1,6 +1,5 @@
 # Playground
-This is my playground where I do whatever I want to :)
-simple classification of Naruto and Boruto
+This is my playground where I do whatever I want to 🤯
 
 ## Topic
-1.NarutoBoruto : simple classification between Naruto and Boruto
+* NarutoBoruto : simple classification between Naruto and Boruto
